@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @AidanRomanov
-- 👀 I’m interested in ... Study & Work
-- 🌱 I’m currently learning ... Swift & SwiftUI
-- 💞️ I’m looking to collaborate on ... None
-- 📫 How to reach me ... -
+Good to see you
+This is Aidan, I'm studying Swift and SwiftUI now.
+I'll upload my daily codes and what am I studying at here.
+I really want to find a like teacher who can talk to me am I good or suck.
+
+So, I'm so excited to meet you who reached to me.
+Well..whatever, let's do the work. 
+
 
 <!---
 AidanRomanov/AidanRomanov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
